@@ -7,5 +7,3 @@ Credits: Using "Hands-On Machine Learning with Scikit-Learn & TensorFlow" by Aur
 Description:
 The purpose of this repository is to understand the basics of machine learning through self-study. I would like to further my studies
 and add to my repitiore of tools as a computer scientist.
-
-1) For housing (textbook), the problem mimics a Data Scientist whose job is to determine.. \TODO
